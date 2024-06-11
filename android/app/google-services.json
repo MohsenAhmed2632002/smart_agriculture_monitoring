@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039728172723",
+    "project_id": "smart-agriculture-monito-dfd68",
+    "storage_bucket": "smart-agriculture-monito-dfd68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039728172723:android:ac5ca7515d980a5cb59ac6",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriculture_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTT3IRFZcMZyv2VuRDoet6GFsxXQKquF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
